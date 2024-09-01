@@ -1,14 +1,15 @@
 # h0ffinator
-
+ 
 An Arduino sketch for the h0ffinator seagull project
+ 
 Video about the project here: https://youtu.be/eWm-MJ5vayw
-
+ 
 This project uses an ATTiny85 as its MCU
-
+ 
 You'll need to add this package to the Arduino IDE to build it:  https://raw.githubusercontent.com/sleemanj/optiboot/master/dists/package_gogo_diy_attiny_index.json
-
+ 
 Sound effect 3 is missing because of copyright reasons. They need copying to the SD card in numerical orderfor this to work correctly.
-
+ 
 Some Parts:
 * Compatible with ATTiny85 Digispark: https://amzn.to/4fMXetc
 * AAA Battery Holder: https://amzn.to/4cgPlsW
